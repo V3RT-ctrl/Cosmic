@@ -1,0 +1,22 @@
+body{
+    background-image: url('background.jpg');
+}
+
+.cosmic{
+    Margin-left: auto;
+    Margin-right: auto;
+    width: 200px;
+    color: white;
+    margin-top:auto;
+    height: 400px;
+}
+
+.list{
+    background-color: rgba(43, 42, 42, 0.9);
+    border:black;
+    margin: 5px;
+    border-width: 2px;
+    height:40px ;
+    text-align: center;
+    border-style: solid;
+}
