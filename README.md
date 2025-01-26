@@ -1,3 +1,6 @@
+# Info
+This is a little "game" we played when I was in scouting. 4 is the cosmic number, because if you take the number of letters in every word, and then take that resulting number and then keep recursively doing that again you will always get 4 in the English language. This was made in high school when I was messing around in react. This code will no longer be maintained, and is thus archived, and serves no real purpose. I just thought it's cool to have on here. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
